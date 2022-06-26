@@ -9,9 +9,8 @@ it makes an image display in a spectrogram [#]_.
 Applications
 -----
 
-- Hiding flags in CTFs [#]_.
+- Hiding flags in CTFs.
 - Hiding ... (you know what I mean :smirk:)
 
 .. [#] https://en.wikipedia.org/wiki/Short-time_Fourier_transform#Inverse_STFT
 .. [#] https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/
-.. [#] `https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)`
