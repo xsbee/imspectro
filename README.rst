@@ -6,6 +6,8 @@ This programme uses STFT (Short Time Fourier Transform) [#]_ to transfer each co
 interpreted as frequency domain data into time domain in LTR (left-to-right) order. That is,
 it makes an image display in a spectrogram [#]_.
 
+.. image:: https://ci.appveyor.com/api/projects/status/2aey2gmlwytyk3jh?svg=true
+
 Applications
 -----
 
